@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, CrazyFriendLocatorActivity!</string>
     <string name="app_name">CrazyFriendLocator</string>
-
+    <string name="mapKey">0xrQIX0uyfpStfJQnpa0eYRvZvsqwRpPrA2509g</string>
+    
 </resources>
